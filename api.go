@@ -1,6 +1,7 @@
 package main
 
 import (
+	"encoding/csv"
 	"fmt"
 	"io"
 	"log"
@@ -16,8 +17,21 @@ type Institucion struct {
 	Sector        string `json: sector`
 }
 
-func cargarDatos() {
+func cargarDatos(url string) ([][]string, error) {
+	resp, err := http.Get(url)
+	if err != nil {
+		return nil, err
+	}
 
+	defer resp.Body.Close()
+	reader := csv.NewReader(resp.Body)
+
+	data, err := reader.ReadAll()
+	if err != nil {
+		return nil, err
+	}
+
+	return data, nil
 }
 
 /* func resuelveListar(response http.ResponseWriter, request *http.Request) {
@@ -73,13 +87,28 @@ func resolveData(response http.ResponseWriter, request *http.Request) {
 
 func manejadorRequest() { //definir endpoints de los servicios
 	http.HandleFunc("/home", resolveHome)
-	http.HandleFunc("/data", resolveData)
+	//http.HandleFunc("/data", resolveData)
 
 	//establecer el puerto del servicio
 	log.Fatal(http.ListenAndServe(":9000", nil)) //nil para no usar el manejador. Fatal imprime si hay alguna excepcion
 }
 
 func main() {
-	cargarDatos()
+
+	url := "https://raw.githubusercontent.com/cjmazzarri/Go-Rest-API/develop/IPREDA_Dataset.csv?token=AL5F43MBXVZMOOWSRB47KT3A2NZPA"
+	data, err := cargarDatos(url)
+	if err != nil {
+		panic(err)
+	}
+
+	for idx, row := range data {
+		// skip header
+		if idx == 0 {
+			continue
+		}
+		fmt.Println(row)
+	}
+
 	manejadorRequest()
+
 }
