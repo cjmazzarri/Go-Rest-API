@@ -1,5 +1,5 @@
 N°;Institucion;Departamento;Provincia;Distrito;Representante;Sector
-1;"""Vida"" Instituto para la Proteccion del Medio Ambiente";Lima;Callao;Bellavista;Alfaro Medina,  Arturo Enrique;Mujer y Poblaciones Vulnerables/Salud/
+1;Vida Instituto para la Proteccion del Medio Ambiente;Lima;Callao;Bellavista;Alfaro Medina,  Arturo Enrique;Mujer y Poblaciones Vulnerables/Salud/
 2;10 Veces Mejor   ;Lima;Lima;Lima;Cabezas Palomino,  Juan Ricardo;Educacion/Mujer y Desarrollo Social/
 3;Accion Cristiana Integral para el Desarrollo;Huánuco;Leoncio Prado;Rupa-Rupa;Navarro Tanchiva,  Nelson;Educacion/Mujer y Desarrollo Social/Salud/
 4;Acción Humanitaria sin Fronteras;Lima;Lima;Los Olivos;Pulido Castillo,  Juan Guillermo;Educacion/Mujer y Desarrollo Social/Salud/
@@ -24,7 +24,7 @@ N°;Institucion;Departamento;Provincia;Distrito;Representante;Sector
 22;Arpegio;La Libertad;Trujillo;Trujillo;Rodriguez Gonzalez,  Joe;Educación/ Mujer y Poblaciones Vulnerables/
 23;Asica Tumi ONG;Lima;Lima;San Borja;Egusquiza Molina,  Ernesto Oswaldo;Desarrollo e Inclusión Social/Educación/Salud/
 24;Asis Peru Internacional;Lima;Lima;Lince;Alburqueque Vilcherrez,  Santos Sabino;Cultura/ Mujer y Poblaciones Vulnerables/Ambiente/ Trabajo y Promoción del Empleo/
-25;"Asociación ""Santa María de Nazaret y Divino Niño"" - Asamnadin";Lima;Lima;Villa El Salvador;Huaman Ortega,  Irene;Mujer y Poblaciones Vulnerables/
+25;Asociación Santa María de Nazaret y Divino Niño - Asamnadin;Lima;Lima;Villa El Salvador;Huaman Ortega,  Irene;Mujer y Poblaciones Vulnerables/
 26;Asociación Achalay                                                                                                      ;Lima;Lima;Santiago De Surco;Aubert Maillefer,  Nelly Fernande;Mujer y Desarrollo Social/Salud/
 27;Asociación Albergue para Enfermos de Cancer Señor de la Divina Misericordia;Lima;Lima;Surquillo;Therese Huamani,  Nelly Isabel;Mujer y Desarrollo Social/
 28;Asociación Amigos de Villa;Lima;Lima;Villa El Salvador;Tenorio Moron,  Nolberto Emilio;Educación/
@@ -51,15 +51,15 @@ N°;Institucion;Departamento;Provincia;Distrito;Representante;Sector
 49;Asociacion Chico Latino;Cusco;Cusco;San Sebastian;Mendoza Huaman,  Alfonso;Educacion/Mujer y Desarrollo Social/
 50;Asociacion Ciudad De Los Niños De La Inmaculada;Lima;Lima;San Juan De Miraflores;Costa Montoya,  Angel;Educacion/Salud/Trabajo Y Promocion Social/Pcm/
 51;Asociacion Cívica al Desarrollo Regional Perú (Asociader-Perú);Lima;Callao;Callao;Morales Huete,  Lucio Basilio;Educacion/Salud/
-52;"Asociacion Civil ""Divino Niño Jesus""";Lima;Lima;San Borja;Gupio Alvarado De Asmat,  Maria Julia;Salud/
-53;"Asociacion Civil ""Properu Service Corps""";Cusco;Cusco;Wanchaq;Webb Mannock,  Richard Andrew;Educación/Mujer y Desarrollo Social/Salud/
+52;Asociacion Civil Divino Niño Jesus;Lima;Lima;San Borja;Gupio Alvarado De Asmat,  Maria Julia;Salud/
+53;Asociacion Civil Properu Service Corps;Cusco;Cusco;Wanchaq;Webb Mannock,  Richard Andrew;Educación/Mujer y Desarrollo Social/Salud/
 54;Asociacion Civil -ONG- Ayudando Peru;Lima;Lima;Jesus Maria;Barnuevo Kaisen,  Ricardo Alberto;Mujer y Poblaciones Vulnerables/Desarrollo e Inclusión Social/
 55;Asociacion Civil Abrigo Y Proteccion Al Desamparado;Lima;Callao;Callao;Villacorta Linares,  Aida;Educacion/Mujer y Desarrollo Social/Salud/
 56;Asociacion Civil Centro de Producción y Vida Rural Carolina del Norte;Piura;Sullana;Bellavista;Vigo Flores,  Jose;Educacion/Mujer y Desarrollo Social/
 57;Asociacion Civil contra el Hambre y la Miseria en Paramonga;Lima;Barranca;Paramonga;Ortega Narvaez,  Jose Domingo;Mujer y Desarrollo Social/
 58;Asociación Civil contra el Tabaquismo y de Promoción de Donación de Organos;Lima;Lima;Lince;Iturregui Obregon,  Mario;Salud/
 59;Asociacion Civil de Apoyo Permanente a La Niñez;Lima;Lima;San Borja;Rodriguez Chavez De Diaz,  Zoila Aurora;Educación/Mujer y Desarrollo Social/Salud/
-60;"Asociación Civil de Personas con Discapacidad ""Corazones Unidos con Esperanza"" del Bajo Piura";Piura;Sechura;Vice;Lopez Amaya,  Maria Rosa;Educacion/Salud/
+60;Asociación Civil de Personas con Discapacidad Corazones Unidos con Esperanza del Bajo Piura;Piura;Sechura;Vice;Lopez Amaya,  Maria Rosa;Educacion/Salud/
 ;;;;;Rivas Agurto,  Walter Eduwin;
 61;Asociación Civil Deportiva y Cultural Agremiacion Deportiva del Callao;Lima;Callao;La Perla;Rivera Chauca,  Oscar Lizardo;Mujer y Poblaciones Vulnerables/
 62;Asociacion Civil Derechos Humanos Peru;Lima;Callao;Callao;Carbajal Aquise,  Williams Jesus;Educacion/Mujer y Desarrollo Social/
@@ -81,10 +81,10 @@ N°;Institucion;Departamento;Provincia;Distrito;Representante;Sector
 76;Asociacion Civil para el Desarrollo y Asistencia Humanitaria Amor en Acción;La Libertad;Trujillo;Trujillo;Artidoro Alvan Carranza,  Cesar Atilio;Mujer y Desarrollo Social/
 77;Asociacion Civil para el Fomento de la Educacion en el Perú;Ancash;Santa;Nuevo Chimbote;Arbulu Arbulu,  Guillermo Ricardo;Mujer y Poblaciones Vulnerables/Educacion/
 78;Asociacion Civil Paradigma;Lima;Lima;La Molina;Tataje Salas,  Gustavo Hernan;Educación/Mujer y Desarrollo Social/
-79;"Asociacion Civil Por La Salud, La Educacion Y El Trabajo ""Los Hijos Del Sol"" ";Lima;Lima;San Isidro;Ortiz Alvarado,  Leonardo Miguel;Mujer y Desarrollo Social/
+79;Asociacion Civil Por La Salud, La Educacion Y El Trabajo Los Hijos Del Sol ;Lima;Lima;San Isidro;Ortiz Alvarado,  Leonardo Miguel;Mujer y Desarrollo Social/
 80;Asociacion Civil Promotora De Salud Social Prosalud-Calca;Cusco;Calca;Calca;Nuñez Del Prado Miranda,  Guido Alfredo;Educación/Mujer y Desarrollo Social/Salud/Otros/
 81;Asociacion Civil que Integran los Pueblos de La Cordillera Negra y Parte de la Cordillera Blanca de La Region Ancash Zona Sierra;Ancash;Huaraz;Huaraz;Diaz Asto,  Segundo Antonio;Educación/Mujer y Desarrollo Social/Salud/
-82;"Asociación Civil Religiosa ""Amazon Medical Missions""";Loreto;Maynas;San Juan Bautista;Dempsey,  Michael James;Educacion/Salud/Otros/
+82;Asociación Civil Religiosa Amazon Medical Missions;Loreto;Maynas;San Juan Bautista;Dempsey,  Michael James;Educacion/Salud/Otros/
 83;Asociación Civil Religiosa Diospi Suyana;Apurimac;Abancay;Curahuasi;Dieter John,  Klaus;Educacion/Salud/
 84;Asociación Civil Santa Ana;Lambayeque;Chiclayo;Jose Leonardo Ortiz;Salas Montenegro,  Juan Victor;Educacion/Mujer y Desarrollo Social/
 85;Asociación Civil Santa Teresa - Abancay;Apurimac;Abancay;Abancay;Vidal Zapatero,  Cristina;Mujer y Poblaciones Vulnerables/
@@ -224,7 +224,7 @@ N°;Institucion;Departamento;Provincia;Distrito;Representante;Sector
 ;;;;;Arias Weiss,  Rodolfo Mercedes;
 213;Asociacion para el Desarrollo de Ancash y Zonas Aledañas;Ancash;Carhuaz;Carhuaz;Garcilazo Meza,  Ambrocio Teodoro;Educacion/Mujer y Desarrollo Social/Salud/
 214;Asociación para el Desarrollo de la Familia Zoe;Lima;Callao;Callao;Ortiz Ramirez,  Alex;Educacion/Mujer y Desarrollo Social/Salud/
-215;"Asociacion para el Desarrollo Integral ""Shalom""";Lima;Lima;Lima;Gomez Diaz, Victoria,  ;Educacion/Mujer y Desarrollo Social/Salud/
+215;Asociacion para el Desarrollo Integral Shalom;Lima;Lima;Lima;Gomez Diaz, Victoria,  ;Educacion/Mujer y Desarrollo Social/Salud/
 216;Asociación para el Desarrollo Sostenible del Perú;Lima;Lima;San Isidro;Obregon Ramirez,  Celfia Edilberta;Educacion/Mujer y Desarrollo Social/Salud/
 217;Asociación Pasitos de Esperanza;Lima;Lima;Independencia;Arenas Alfaro,  Katia Roxana;Mujer y Desarrollo Social/Salud/
 218;Asociacion Pastoral de Servicios Medico Asistenciales Clínica Adventista Ana Stahl de la Iglesia Adventista del Septimo Día;Loreto;Maynas;Iquitos;Chavez Idrogo,  Enzo Ronald;Mujer y Desarrollo Social/Salud/
@@ -244,7 +244,7 @@ N°;Institucion;Departamento;Provincia;Distrito;Representante;Sector
 ;;;;;Vasquez Lopez,  Carmen Julia;
 230;Asociación Peruana Prodesarrollo Humanitario al Adulto Mayor;Lima;Lima;Jesus Maria;Velasquez De Carrion,  Maria Beatriz;Educación/Mujer y Desarrollo Social/Salud/
 231;Asociación Peruano Japonesa                                                                                             ;Lima;Lima;Jesus Maria;Kunigami Kunigami,  Jorge;Educacion/Mujer y Desarrollo Social/Salud/
-232;"Asociación por los Niños Especiales y Otros ""Divino Niño Jesus"" - Mancora";Piura;Talara;Mancora;Cordova Casimiro,  Maria Luz;Educacion/Mujer y Desarrollo Social/Salud/
+232;Asociación por los Niños Especiales y Otros Divino Niño Jesus - Mancora;Piura;Talara;Mancora;Cordova Casimiro,  Maria Luz;Educacion/Mujer y Desarrollo Social/Salud/
 233;Asociación Presbiteriana Betesda;La Libertad;Trujillo;La Esperanza;Hernandez Cobba,  Ricardo Walter;Mujer y Desarrollo Social/
 234;Asociación Pro-Ayuda a Caminar;Lima;Lima;Chorrillos;Pinto Ludeña,  Jaime;Mujer y Desarrollo Social/
 235;Asociación Progreso, Crecimiento, Emprendimiento y Desarrollo (Procede);Lima;Lima;San Borja;Lastres Ferrucci,  Francisco Martin;Mujer y Poblaciones Vulnerables/
@@ -267,7 +267,7 @@ N°;Institucion;Departamento;Provincia;Distrito;Representante;Sector
 250;Asociación sin Fines de Lucro Mujeres Solidarias;Piura;Piura;Piura;Querevalu Manihuari,  Mariela;Mujer y Poblaciones Vulnerables/Desarrollo e Inclusión Social/
 251;Asociación sin Fines de Lucro: Caritas sin Lagrimas - Perú;Lima;Lima;San Martin De Porres;Machuca Meneses,  Cesar Raul;Educación/Mujer y Desarrollo Social/Salud/
 252;Asociación Sociocultural Santa Cruz de Ccaccasiri - Acoria - Huancavelica;Lima;Lima;El Agustino;Bendezu Ñahui,  Maximiliana;Cultura/ Mujer y Poblaciones Vulnerables/
-253;"Asociacion Solidaria Internacional Retroalimentaria ""Instituto Luz Provida""";Lima;Callao;Ventanilla;Huaman Cespedes,  Moises;Educacion/Mujer y Desarrollo Social/
+253;Asociacion Solidaria Internacional Retroalimentaria Instituto Luz Provida;Lima;Callao;Ventanilla;Huaman Cespedes,  Moises;Educacion/Mujer y Desarrollo Social/
 254;Asociación Solidaria Nuestras Voces;Lima;Lima;Lima;Baldeon Remuzgo,  Martha Isabel;Educación/
 255;Asociación Solidarios                                                                                            ;Lima;Lima;Santiago De Surco;Arana Wimpon De Acevedo,  Alicia Maria;Educacion/Mujer y Desarrollo Social/
 256;Asociación Sonqo Llaqta - Perú (Corazon de Mi Pueblo);Piura;Piura;Piura;Fossa Nish,  Maria Antonieta;Educacion/Mujer y Desarrollo Social/
@@ -316,9 +316,9 @@ N°;Institucion;Departamento;Provincia;Distrito;Representante;Sector
 294;Centro Comunitario Oftalmológico Respice;Lima;Lima;Miraflores;Perez Martinot,  Manuel Raul;Salud/
 295;Centro Cultural Perú - Sican;Loreto;Maynas;Iquitos;Ugaz Aguinaga,  Dolliveth Lucero;Educacion/Mujer y Desarrollo Social/ Cultura/
 296;Centro de Apoyo al Desarrollo Agro-Socio-Económico;La Libertad;Trujillo;Trujillo;Cosavalente Moza,  Francisco Neri;Mujer y Desarrollo Social/PCM/
-297;"Centro de Apoyo Armonización Salud y Cultura ""Splendor"" Casa Hogar para la Tercera Edad";Lima;Lima;Los Olivos;Castillo Herrera,  Jose Luis;Educacion/Salud/
+297;Centro de Apoyo Armonización Salud y Cultura Splendor Casa Hogar para la Tercera Edad;Lima;Lima;Los Olivos;Castillo Herrera,  Jose Luis;Educacion/Salud/
 298;Centro de Atención Residencial Mahanaim;Lima;Lima;Cieneguilla;Carbajal Cartolin De Romero,  Carmen Zoila;Mujer y Poblaciones Vulnerables/Educacion/ Salud/
-299;"Centro de Capacitacion Investigación y Desarrollo ""Yanapacuy""";Arequipa;Arequipa;Arequipa;Apaza Mamani,  Javier Alfredo;Mujer y Poblaciones Vulnerables/
+299;Centro de Capacitacion Investigación y Desarrollo Yanapacuy;Arequipa;Arequipa;Arequipa;Apaza Mamani,  Javier Alfredo;Mujer y Poblaciones Vulnerables/
 300;Centro de Capacitacion y Desarrollo Social Peruano;Lima;Lima;Carabayllo;Pereyra Peña,  Fortunato;Agricultura/Mujer y Desarrollo Social/Salud/
 301;Centro de Desarrollo Abundia Perú;Junín;Huancayo;Huancayo;Tazza Matta,  Rosana Rebeca;Mujer y Poblaciones Vulnerables/Trabajo y Promoción del Empleo/
 302;Centro de Desarrollo y Responsabilidad Social para Mitigar la Pobreza - Perú;Lima;Lima;San Borja;La Rosa Yabar,  Jose Antonio;Agricultura/Educacion/Mujer y Desarrollo Social/Salud/
@@ -357,13 +357,13 @@ N°;Institucion;Departamento;Provincia;Distrito;Representante;Sector
 333;Compañia de Jesús - Comunidad de La Inmaculada;Lima;Lima;Santiago De Surco;Dolan Behler,  Robert Louis;Otros/
 334;Compañia de Jesús - Provincia del Perú;Lima;Lima;Jesus Maria;Diaz Gonzalez,  Diego;Educacion/Mujer y Desarrollo Social/
 335;Compañia de María (Marianistas);Lima;Lima;Pueblo Libre;Melcher Jukes,  Philip Kent;Educación/
-336;"Comunidad Cristiana ""Cuerpo de Cristo""                                                                                  ";Lima;Lima;Lima;Martin Goicochea,  Valeriano;Educación/Mujer Y Desarrollo Social/
-337;"Comunidad Cristiana ""Rios de Milagros""";Lima;Lima;Santa Anita;Hilario Pallarco,  Julia Maxima;Desarrollo e Inclusión Social/Educación/
+336;Comunidad Cristiana Cuerpo de Cristo                                                                                  ;Lima;Lima;Lima;Martin Goicochea,  Valeriano;Educación/Mujer Y Desarrollo Social/
+337;Comunidad Cristiana Rios de Milagros;Lima;Lima;Santa Anita;Hilario Pallarco,  Julia Maxima;Desarrollo e Inclusión Social/Educación/
 338;Comunidad Cristiana Cristo Vive;Lima;Callao;Bellavista;Lindembert Massironi,  Maximo Elias;Otros/
 339;Comunidad Cristiana del Espiritu Santo                                                                                  ;Lima;Lima;Breña;Sergio Perez,  Jose Alberto;Mujer y Desarrollo Social/
 340;Comunidad Cristiana Familiar Amor Eterno;Lima;Lima;Ate;Luiz Casavechi,  Fernando;Educacion/Mujer y Desarrollo Social/Salud/Otros/
 341;Comunidad Cristiana Restauracion;Lima;Callao;Carmen De La Legua Reynoso;Huarancca Vereau,  Eccar Felix;Mujer y Poblaciones Vulnerables/
-342;"Comunidad Evangelica ""Cristo Rompe Las Cadenas""";La Libertad;Trujillo;El Porvenir;Ponciano Andrade,  Santiago Wilmer;Mujer y Poblaciones Vulnerables/Desarrollo e Inclusión Social/
+342;Comunidad Evangelica Cristo Rompe Las Cadenas;La Libertad;Trujillo;El Porvenir;Ponciano Andrade,  Santiago Wilmer;Mujer y Poblaciones Vulnerables/Desarrollo e Inclusión Social/
 343;Comunidad Jhire International;Lima;Lima;San Juan De Lurigancho;Tanta Huaccan,  Bertha;Educación/Mujer y Desarrollo Social/Salud/
 344;Comunidad Terapeutica Jesus Roca Que Salva;Lima;Lima;Villa El Salvador;Perez Gonzales,  Karol Sarita Haydee;Mujer y Desarrollo Social/
 345;Comunidad Traperos Aguilas Emaus;Piura;Piura;Piura;Leon Crisanto,  Nestor Teodoro;Educación/Trabajo y Promoción Social/
@@ -371,7 +371,7 @@ N°;Institucion;Departamento;Provincia;Distrito;Representante;Sector
 347;Concejo Peruano de Profesionales para el Desarrollo en Salud y Educación;Lima;Lima;San Juan De Lurigancho;Carranza Garay,  Karim Jhanek;Cultura/ Mujer y Poblaciones Vulnerables/Educación/
 348;Congregacion  de Las Hermanas de La Misericordia de San Vicente de Paul;Ancash;Santa;Moro;Frick Gstoehl,  Norma;Educación/Mujer y Desarrollo Social/Salud/PCM/
 349;Congregacion Apostolicas del Corazon de Jesús;Lima;Lima;Breña;Cuba Manrique,  Rosa Isabel;Educación/Mujer y Desarrollo Social/Otros/
-350;"Congregacion de Hermanas Mercedarias de La Caridad, Provincia ""Jesucristo Redentor""";Lima;Lima;La Molina;Mendoza Najar,  Elsa Melita;Educacion/Salud/
+350;Congregacion de Hermanas Mercedarias de La Caridad, Provincia Jesucristo Redentor;Lima;Lima;La Molina;Mendoza Najar,  Elsa Melita;Educacion/Salud/
 351;Congregacion de Hermanitas de Los Ancianos Desamparados;Lima;Lima;Breña;Vinuesa Yebenes,  Juliana;Educación/
 352;Congregacion de Hijas de la Sabiduria;Lima;Lima;Jesus Maria;Mateus Camargo,  Maria Isabel;Educacion/Mujer y Desarrollo Social/
 353;Congregacion de la Misión (Padres Lazaristas O Paules O Vicentinos) en el Perú                                          ;Lima;Lima;Miraflores;Guillen Goñi,  Pedro Javier;Mujer y Desarrollo Social/
@@ -393,7 +393,7 @@ N°;Institucion;Departamento;Provincia;Distrito;Representante;Sector
 368;Congregacion Misionera Laica Santisima Trinidad Albergue Hogar Cristiana Catolica;Ancash;Huaraz;Huaraz;Guimaray Lazaro,  Eudocia;Mujer y Desarrollo Social/
 369;Congregacion Misioneras De Jesus Verbo Y Victima;Lima;Lima;La Molina;Francia Zevallos,  Rosario;Educacion/Salud/
 370;Congregacion Misioneros De Los Santos Apostoles                                                                         ;Lima;Lima;Lima;Lara Navarro,  Alberto Rene;Educacion/Mujer y Desarrollo Social/Salud/Otros/
-371;"Congregacion Religiosa Nuestra Señora de La Sabiduria ""Instituto Madri Pie"" - Filial Perú";Lima;Callao;Bellavista;Farias Diaz,  Angelica Lourdes;Educación/
+371;Congregacion Religiosa Nuestra Señora de La Sabiduria Instituto Madri Pie - Filial Perú;Lima;Callao;Bellavista;Farias Diaz,  Angelica Lourdes;Educación/
 372;Congregacion Salesiana del Perú                                                                                       ;Lima;Lima;Breña;Dal Ben Lava,  Santo;Educación/Salud/Trabajo y Promoción Social/Otros/
 373;Congregación Siervas de San José - Provincia del Perú;Lima;Lima;Breña;Gomez Calleja,  Carmen;Educacion/Mujer y Desarrollo Social/
 374;Convencion Evangelica Bautista del Perú;Lima;Lima;Lima;Juarez Juarez,  Domingo;Educacion/Mujer y Desarrollo Social/
@@ -644,7 +644,7 @@ N°;Institucion;Departamento;Provincia;Distrito;Representante;Sector
 607;Organización Filarmónica de Orquestas Juveniles e Infantiles del Perú - Organización Filarmónica;Lima;Lima;Lima;Arroyo Torres,  Lila Milagros;Educacion/
 608;Organizacion Internacional De Desarrollo;Lima;Lima;Lima;Salazar Olivares,  Jacinto Vicente;Mujer Y Desarrollo Social/Salud/
 609;Organizacion No Gubernamental Asociacion En Defensa De Los Derechos Del Consumidor San Francisco;Arequipa;Arequipa;Arequipa;Cardenas Quiroz,  Federico Jorge;Mujer y Poblaciones Vulnerables/
-610;"Organizacion No Gubernamental De Desarrollo ""Peru Futbol""";Lima;Lima;San Isidro;Puga Pomareda,  Juan Jose;Educacion/Mujer y Desarrollo Social/
+610;Organizacion No Gubernamental De Desarrollo Peru Futbol;Lima;Lima;San Isidro;Puga Pomareda,  Juan Jose;Educacion/Mujer y Desarrollo Social/
 611;Organizacion No Gubernamental De Desarrollo Centro Cristiano De Accion Y Promocion Social;Cajamarca;Jaen;Jaen;Rojas Tantalean,  Manuel Eleuterio;Educacion/Mujer y Desarrollo Social/Salud/Trabajo Y Promocion Social/Otros/
 612;Organizacion No Gubernamental De Desarrollo Personas Vulnerables Leon De Juda;La Libertad;Trujillo;Trujillo;Ballesteros Meza,  Gustavo Antonio;Educacion/Mujer y Desarrollo Social/Salud/
 613;Organizacion No Gubernamental Para El Desarrollo Equitativo Y Sostenido Para America Latina O.N.G. D-E-S-A;Lima;Lima;San Juan De Miraflores;Carhuas Tineo,  Raul Jose;Mujer y Poblaciones Vulnerables/Educacion/
@@ -690,7 +690,7 @@ N°;Institucion;Departamento;Provincia;Distrito;Representante;Sector
 652;Seamos Perú;Lima;Lima;San Juan De Miraflores;Nuñez Ricapa,  Robert Martin;Mujer y Poblaciones Vulnerables/
 653;Selva Esperanza-Peru;Loreto;Maynas;Iquitos;Del Aguila Pinedo,  Rosa Valeria;Mujer y Poblaciones Vulnerables/Educacion/
 654;Senzaconfini Onlus;Huánuco;Huanuco;Huanuco;Mendoza Dominguez,  Wilgen  Lorenzo;Mujer y Desarrollo Social/Salud/
-655;"Servicios Sociales Solidarios ""Abate Pierre""";Lima;Lima;Villa Maria Del Triunfo;Ponce Pardo,  Lenin Leonel;Mujer y Poblaciones Vulnerables/Presidencia del Consejo de Ministros/
+655;Servicios Sociales Solidarios Abate Pierre;Lima;Lima;Villa Maria Del Triunfo;Ponce Pardo,  Lenin Leonel;Mujer y Poblaciones Vulnerables/Presidencia del Consejo de Ministros/
 656;Sinodo Evangelico Luterano del Perú;Lima;Lima;Lima;Robles Rojas,  Andres;Mujer y Desarrollo Social/
 657;Sirviendo-Logrando Paz;Arequipa;Arequipa;Cayma;Busuttil,  Alexander;Educación/Salud/
 658;Sistema de Salud Verbo Encarnado;Ancash;Santa;Chimbote;Gomez Barrenechea,  Lourdes Jesus;Mujer y Poblaciones Vulnerables/Educación/
