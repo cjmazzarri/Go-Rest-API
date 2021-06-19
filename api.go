@@ -65,10 +65,10 @@ func manejadorRequest() { //definir endpoints de los servicios
 	http.HandleFunc("/grupos", resolveGrupos)
 
 	//establecer el puerto del servicio
-	log.Fatal(http.ListenAndServe(":9000", nil)) //nil para no usar el manejador. Fatal imprime si hay alguna excepcion
+	log.Fatal(http.ListenAndServe(":9000", nil))
 }
 
-func escogerCentroides(k int) {
+func escogerCentroides(k int) { //Selección aleatoria de centroides
 	for i := 0; i < k; i++ {
 		r := rand.Intn(len(bonos))
 		centroides = append(centroides, bonos[r])
@@ -79,7 +79,7 @@ func escogerCentroides(k int) {
 	}
 }
 
-func distanciaEuclidiana(bono1 Bono, bono2 Bono) float64 {
+func distanciaEuclidiana(bono1 Bono, bono2 Bono) float64 { //Cálculo de distancia euclidiana
 	suma :=
 		math.Pow(bono2.Prestacion-bono1.Prestacion, 2) +
 			math.Pow(bono2.Tipotra-bono1.Tipotra, 2) +
@@ -88,7 +88,7 @@ func distanciaEuclidiana(bono1 Bono, bono2 Bono) float64 {
 	return math.Sqrt(suma)
 }
 
-func agrupar() {
+func agrupar() { //Asignación de elementos a los centroides más cercanos
 	var i int = 0
 	for i = 0; i < len(bonos); i++ {
 		var auxJ int = 0
@@ -119,7 +119,7 @@ func actualizarCentroide(k int) {
 	var Bono Bono
 	var sumaPrestacion, sumaTipotra, sumaTipoben, sumaBeneficio, cont float64 = 0, 0, 0, 0, 0
 	var j int = 0
-	for i := 0; i < len(bonos); i++ {
+	for i := 0; i < len(bonos); i++ { //Se suman los valores de todos los elementos pertenecientes al cluster k
 		if clusters_centroides[i] == k {
 			sumaPrestacion += bonos[i].Prestacion
 			sumaTipotra += bonos[i].Tipotra
@@ -129,17 +129,17 @@ func actualizarCentroide(k int) {
 			j++
 		}
 	}
-
 	Bono.Id_persona = j
-	Bono.Prestacion = sumaPrestacion / cont
+	Bono.Prestacion = sumaPrestacion / cont //Se dividen las sumas entre las cantidades para obtener los promedios y se asignan al nuevo centroide
 	Bono.Tipotra = sumaTipotra / cont
 	Bono.Tipoben = sumaTipoben / cont
 	Bono.Beneficio = sumaBeneficio / cont
 	Bono.Cluster = k
-	centroides[k] = Bono
+	centroides[k] = Bono //El centroide nuevo sustituye al anterior
 }
 
 func main() {
+	//Inicialización de seed para valores aleatorios a ser usados más adelante
 	rand.Seed(time.Now().UnixNano())
 	//raw link:
 	url := "https://raw.githubusercontent.com/cjmazzarri/Go-Rest-API/develop/dataset_BC_PC_ago2020.csv?token=AL5F43NOLJ4CVVWZTDNYKYDA2THUI"
@@ -159,6 +159,7 @@ func main() {
 		bonos = append(bonos, bono) //Agregar a array bonos
 	}
 
+	//Impresión de datos para verificar la lectura del archivo
 	for idx, row := range bonos {
 		// Saltar la primera fila, contiene nombres de tablas
 		if idx == 0 {
@@ -171,7 +172,7 @@ func main() {
 		}
 		fmt.Println(row)
 	}
-	escogerCentroides(3)
+	escogerCentroides(3) //Escoger aleatoriamente los centroides
 
 	for i := 0; i < 10; i++ {
 		agrupar()
