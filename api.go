@@ -14,6 +14,7 @@ import (
 )
 
 type Bono struct {
+	Cluster    int     `json: cluster`
 	Id_persona int     `json: id_persona`
 	Prestacion float64 `json: prestacion`
 	Tipotra    float64 `json: tipotra`
@@ -103,6 +104,7 @@ func agrupar() {
 		//fmt.Println("agregado valor ", i, " a cluster de ", centroides[auxJ].Id_persona)
 
 		clusters_centroides = append(clusters_centroides, auxJ)
+		bonos[i].Cluster = auxJ
 
 	}
 }
@@ -127,11 +129,13 @@ func actualizarCentroide(k int) {
 			j++
 		}
 	}
+
 	Bono.Id_persona = j
 	Bono.Prestacion = sumaPrestacion / cont
 	Bono.Tipotra = sumaTipotra / cont
 	Bono.Tipoben = sumaTipoben / cont
 	Bono.Beneficio = sumaBeneficio / cont
+	Bono.Cluster = k
 	centroides[k] = Bono
 }
 
@@ -146,6 +150,7 @@ func main() {
 
 	//Poblar los datos obtenidos del archivo CSV accedido por el raw link
 	for i, value := range data {
+		bono.Cluster = 0
 		bono.Id_persona = i
 		bono.Prestacion, _ = strconv.ParseFloat(value[1], 64)
 		bono.Tipotra, _ = strconv.ParseFloat(value[2], 64)
@@ -175,6 +180,20 @@ func main() {
 			actualizarCentroide(j)
 			fmt.Println(centroides[j])
 		}
+	}
+
+	fmt.Println("agrupados:")
+	for idx, row := range bonos {
+		// Saltar la primera fila, contiene nombres de tablas
+		if idx == 0 {
+			continue
+		}
+
+		//Pequeña muestra de 10 elementos, porque el dataset tiene más de 11000
+		if idx == 10 {
+			break
+		}
+		fmt.Println(row)
 	}
 
 	manejadorRequest()
