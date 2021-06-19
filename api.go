@@ -129,7 +129,7 @@ func actualizarCentroide(k int) {
 			j++
 		}
 	}
-	Bono.Id_persona = j
+	Bono.Id_persona = centroides[k].Id_persona
 	Bono.Prestacion = sumaPrestacion / cont //Se dividen las sumas entre las cantidades para obtener los promedios y se asignan al nuevo centroide
 	Bono.Tipotra = sumaTipotra / cont
 	Bono.Tipoben = sumaTipoben / cont
