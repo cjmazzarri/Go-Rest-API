@@ -182,6 +182,7 @@ func main() {
 		}
 	}
 
+	//Otra impresión de datos, esta vez con los valores de sus clusters
 	fmt.Println("agrupados:")
 	for idx, row := range bonos {
 		// Saltar la primera fila, contiene nombres de tablas
@@ -189,7 +190,6 @@ func main() {
 			continue
 		}
 
-		//Pequeña muestra de 10 elementos, porque el dataset tiene más de 11000
 		if idx == 10 {
 			break
 		}
